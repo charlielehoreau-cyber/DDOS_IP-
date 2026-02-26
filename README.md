@@ -1,7 +1,7 @@
 DDos_IP
 A Python-based DDoS (Distributed Denial of Service) script for testing network security.
 
-![Aperçu](image/Screenshot_20260226_110847_Pydroid3.jpg)
+![Image](image/Screenshot_20260226_110847_Pydroid%203.jpg)
 
 Author
 LePetiot37
